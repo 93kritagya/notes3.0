@@ -1,0 +1,9 @@
+{
+  "name": "Hakuna Notes",
+  "short_name": "Hakuna",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#080b12",
+  "theme_color": "#4fd8ff",
+  "description": "Local-first personal notes and knowledge workspace."
+}
